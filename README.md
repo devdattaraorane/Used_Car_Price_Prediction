@@ -1,7 +1,3 @@
-Certainly! Here’s a more engaging and eye-catching version of the README with emojis:
-
----
-
 # 🚗 Car Price Prediction 🏷️
 
 Welcome to the Car Price Prediction project! 🚀 This project builds a machine learning model to estimate the price of used cars based on their features. From data cleaning to model training and a snazzy GUI, this project has it all. Dive in and explore!
